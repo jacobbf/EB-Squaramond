@@ -3,7 +3,7 @@
 
 ## About EB Squaramond
 
-EB Squaramond aims to be a pointier, sharper edit of EB Garamond, inspired by a few *very* different fonts I've been liking including [Happy Times](https://www.velvetyne.fr/fonts/happy-times/), [Fragen](https://thedesignersfoundry.com/fragen) and [Ogg Text](https://sharptype.co/typefaces/ogg-superfamily/ogg-text/). 
+EB Squaramond aims to be a pointier, sharper, less useful edit of EB Garamond, inspired by a few *very* different fonts I've been liking including [Happy Times](https://www.velvetyne.fr/fonts/happy-times/), [Fragen](https://thedesignersfoundry.com/fragen) and [Ogg Text](https://sharptype.co/typefaces/ogg-superfamily/ogg-text/). 
 
 ## About the Original
 
