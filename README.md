@@ -1,5 +1,5 @@
 # EB Squaramond
-![FOSS EB Squaramond coming soon](poster.png)
+![FOSS EB Squaramond coming soon](readme-poster.png)
 
 ## About EB Squaramond
 
