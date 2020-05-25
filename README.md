@@ -3,7 +3,7 @@
 
 ## About EB Squaramond
 
-EB Squaramond aims to be a pointier, sharper, less useful reworking of EB Garamond, inspired by the angular textures created by few *very* different fonts including [Happy Times](https://www.velvetyne.fr/fonts/happy-times/), [Fragen](https://thedesignersfoundry.com/fragen) and [Ogg Text](https://sharptype.co/typefaces/ogg-superfamily/ogg-text/). EB Squaramond uses EB Garamond as a starting point but looks to the original Egenolff-Berner specimen and Tory-Garamond for direction.
+EB Squaramond aims to be a pointier, sharper, less useful reworking of EB Garamond, inspired by the angular textures created by few *very* different fonts including [Happy Times](https://www.velvetyne.fr/fonts/happy-times/), [Fragen](https://thedesignersfoundry.com/fragen) and [Ogg Text](https://sharptype.co/typefaces/ogg-superfamily/ogg-text/). EB Squaramond uses EB Garamond as a starting point but looks to the original Egenolff-Berner specimen and Tory-Garamond for direction. See [this](https://www.are.na/jake-brussel-faria/eb-squaramond) Are.na channel for more information.
 
 ## About the Original
 
