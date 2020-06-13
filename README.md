@@ -11,7 +11,7 @@ EB Garamond is intended to be an excellent, classical, Garamond. It is a communi
 
 Why another Garamond? That typeface is a key moment in the history of typography, and European type designers have been reacting to this work ever since. It is probably the most revived typeface in the world and many are excellent. In the world of free/libre culture, however, only a few Garamond-inspired types exist, and none share the scope of this project.
 
-
+<!-- 
 ## Building fonts
 
 ### TTFs and OTFs
@@ -29,4 +29,4 @@ pip install -r requirements.txt
 # We can now run the build script in the sources/ dir.
 cd sources && sh build-vf.sh
 ```
-
+ -->
